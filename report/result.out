@@ -1,0 +1,21 @@
+\BOOKMARK [2][-]{subsection.0.1}{CERCatIIITD \043posts vs time}{}% 1
+\BOOKMARK [2][-]{subsection.0.2}{CERCatIIITD word cloud}{}% 2
+\BOOKMARK [2][-]{subsection.0.3}{blrcitypolice \043posts vs time}{}% 3
+\BOOKMARK [2][-]{subsection.0.4}{blrcitypolicei word cloud}{}% 4
+\BOOKMARK [2][-]{subsection.0.5}{ponguru \043posts vs time}{}% 5
+\BOOKMARK [2][-]{subsection.0.6}{ponguru word cloud}{}% 6
+\BOOKMARK [2][-]{subsection.0.7}{thekiranbedi \043posts vs time}{}% 7
+\BOOKMARK [2][-]{subsection.0.8}{thekiranbedi word cloud}{}% 8
+\BOOKMARK [2][-]{subsection.0.9}{Word clouds of all the IDs showing frequent words used by IDs}{}% 9
+\BOOKMARK [2][-]{subsection.0.10}{Sentiment scores vs time for all IDs}{}% 10
+\BOOKMARK [2][-]{subsection.0.11}{Sentiment composition of tweets/posts of ID's}{}% 11
+\BOOKMARK [2][-]{subsection.0.12}{Python program to get data from facebook for CERCatIIITD page. This program parses description in to What, Where and When components.}{}% 12
+\BOOKMARK [2][-]{subsection.0.13}{Python program to get data from facebook for theblrcitypolice page. Store time, id, message and description in to mongo db for latter use.}{}% 13
+\BOOKMARK [2][-]{subsection.0.14}{A list file to be read by above two programs to get parameters for facebook graph API.}{}% 14
+\BOOKMARK [2][-]{subsection.0.15}{Python program to get data from twitter using Tweepy python library and twitter API and store it in mongo DB.}{}% 15
+\BOOKMARK [2][-]{subsection.0.16}{Python program to generate graph of \043posts with time for all four IDs.}{}% 16
+\BOOKMARK [2][-]{subsection.0.17}{Python program to generate word clouds for the spikes and start month and end month of all the time series graph.}{}% 17
+\BOOKMARK [2][-]{subsection.0.18}{Python program to generate word cloud for all the posts/tweets for all the IDs to get most frequent used words.}{}% 18
+\BOOKMARK [2][-]{subsection.0.19}{Python program to get sentiment scores of posts/tweets in during a certain time period using Machpee community sentiment API and generate a CSV file.}{}% 19
+\BOOKMARK [2][-]{subsection.0.20}{Python program to draw sentiment score for each day/month for all the IDs.}{}% 20
+\BOOKMARK [2][-]{subsection.0.21}{Python program to generate pie chart for sentiment composition of all the IDs.}{}% 21
